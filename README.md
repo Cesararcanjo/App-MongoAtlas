@@ -1,2 +1,2 @@
-# App-MongoAtlas
-Arquivo contendo meu desenvolvimento Backend em Node.js e MongoDB
+# curso-code
+Ambiente Node.js, Express.js, MongoDb
