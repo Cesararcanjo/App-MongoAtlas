@@ -14,7 +14,7 @@ const options = {
         description: "Ambiente de desenvolvimento"
       },
       {
-        url: "https://sgt-api-0aj3.onrender.com/",
+        url: "https://app-mongoatlas.onrender.com/",
         description: "Ambiente de produção"
       }
     ],
